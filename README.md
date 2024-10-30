@@ -1,1 +1,6 @@
-This is a recipe site to demonstrate lists in html.
+This is a recipe site to demonstrate 
+    -lists
+    -images
+    -links
+
+in html
